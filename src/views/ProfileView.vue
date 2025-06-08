@@ -1,6 +1,6 @@
 <template>
   <!-- Main container for the profile page -->
-  <div class="container" style="display: flex; justify-content: center; align-items: center; min-height: 80vh;">
+  <div class="container">
     <!-- Profile card with image, name, and social links -->
     <div class="card profile-card">
       <img src="/JAY_0098.JPG" alt="Profile" class="profile-img">
@@ -23,10 +23,7 @@
 .container {
   max-width: 400px;
   margin: 7vh auto 0 auto;
-  background: #18181c;
   border-radius: 18px;
-  box-shadow: 0 4px 24px 0 #00000033;
-  padding: 2.5rem 2rem 2rem 2rem;
   display: flex;
   flex-direction: column;
   align-items: center;

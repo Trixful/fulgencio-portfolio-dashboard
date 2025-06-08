@@ -61,9 +61,7 @@ export default {
 .container {
   max-width: 900px;
   margin: 7vh auto 0 auto;
-  background: #18181c;
   border-radius: 18px;
-  box-shadow: 0 4px 24px 0 #00000033;
   padding: 2.5rem 2rem 2rem 2rem;
   display: flex;
   flex-direction: column;
